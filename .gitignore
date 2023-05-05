@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output directories
+dist/
+build/
+out/
+lib/
+*.js
+*.js.map
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-*
+
+# Other temporary files
+*.log
+*.swp
+.DS_Store
